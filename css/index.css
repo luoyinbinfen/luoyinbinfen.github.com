@@ -1,0 +1,31 @@
+.box{
+	width:100%;
+	height:100px;
+	background: gray;
+	text-align: center;
+	padding:1px;
+	margin:0;
+	font-size: 2em;
+	color:red;
+}
+.hx{
+	width:100%;
+	height:100px;
+	background: skyblue;
+	text-align: center;
+	line-height: 100px;
+	padding:1px;
+	margin:0;
+	font-size: 2em;
+	color:yellow;
+}
+.box1{
+    width:100%;
+    height:60px;
+    padding:1px;
+    text-align:center;
+    line-height: 60px;
+    font-size: 2em;
+    color:red;
+    float:left;
+}

@@ -1,0 +1,133 @@
+.box{
+	width:400px;
+	height:170px;
+	border:1px solid black;
+}
+.box1{
+    width:400px;
+	height:160px;
+	border-bottom:1px solid black;
+	border-right:1px solid black;
+	border-left:1px solid black;
+}
+.box2{
+    width:400px;
+	height:60px;
+	border-bottom:1px solid black;
+	border-right:1px solid black;
+	border-left:1px solid black;
+}
+.box3{
+	width:400px;
+	height:300px;
+	border-bottom:1px solid black;
+	border-right:1px solid black;
+	border-left:1px solid black;
+}
+.libox1{
+	width:79px;
+	height:40px;
+	float: left;
+    border-right: 1px solid black;
+    line-height: 40px;
+    text-align: center;
+}
+.libox2{
+	width:80px;
+	height:40px;
+	background: gray;
+	float: left;
+    border-bottom: 1px solid black;
+    line-height: 40px;
+    text-align: center;
+}
+.libox3{
+	width:368px;
+	height: 30px;
+	margin:15px;
+	border:1px solid black;
+	float:left;
+}
+.pibox{
+	width:90px;
+	height: 90px;
+	background: orange;
+	float:left;
+	margin:10px;
+}
+.pibox1{
+	width:250px;
+	height:25px;
+	margin: 15px;
+	border:1px solid black;
+	float:left;
+}
+.pibox2{
+	width:120px;
+	height:30px;
+	margin:6px;
+	background: orange;
+	float:left;
+	line-height: 30px;
+    text-align: center;
+}
+.bibox{
+	width:368px;
+	height:28px;
+	margin:15px;
+	border:1px solid black;
+	float:left;
+}
+.kibox{
+	width:159px;
+	height:199px;
+	border-bottom:1px solid black;
+	border-right:1px solid black;
+	float:left;
+	text-align: center;
+}
+.kibox1{
+	width:79px;
+	height:99px;
+	border-bottom:1px solid black;
+	border-right:1px solid black;
+	float:left;
+	text-align: center;
+	text-align: center;
+}
+.kibox2{
+	width:80px;
+	height:99px;
+	border-bottom:1px solid black;
+	float:left;
+	text-align: center;
+}
+.kibox3{
+	width:79px;
+	height:100px;
+	border-right: 1px solid black;
+	float:left;
+	text-align: center;
+}
+.kibox4{
+	width:80px;
+	height:100px;
+	float:left;
+	text-align: center;
+}
+.mibox{
+	width:100px;
+	height:120px;
+    background:red;
+    margin:30px;
+    margin-bottom: 10px;
+    float:left;
+}
+.mibox1{
+	width:40px;
+	height:40px;
+    background:red;
+    margin:20px;
+    margin-bottom: 10px;
+    float:left;
+}
